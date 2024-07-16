@@ -9,8 +9,8 @@ Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a l
 I have 4 years of experience in Software development industry, where I've had the opportunity to work on diverse projects ranging from customer support experience to debugging and developing automations. My expertise includes:
 
 - **Programming Languages:** C#, Python, Java, SQL
-- **Frameworks & Libraries:** .NET Framework, Streamlit, Flask, Open CV, Tensorflow, Keras, Pandas, Nibabel, Scikit-learn.
-- **Tools & Platforms:** Visual Studio Code, IntelliJ, SQL Server Management Studio, Powershell, Docker, Ngrok, Github.
+- **Frameworks & Libraries:** .NET Framework, Streamlit, Flask, Open CV, Tensorflow, Keras, Pandas, Nibabel, Scikit-learn, NumPy, Matplotlib.
+- **Tools & Platforms:** Visual Studio Code, IntelliJ, SQL Server Management Studio, Powershell, Docker, Ngrok, Github (GIT).
 
 ### What I'm Working On
 
