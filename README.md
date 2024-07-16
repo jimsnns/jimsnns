@@ -18,7 +18,7 @@ Currently, I'm focused on Data Science and the development of a model which dete
 
 ### Get in Touch
 
-I'm always open to connecting with like-minded individuals! You can reach me through my [LinkedIn](https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/ profile 📫 
+I'm always open to connecting with like-minded individuals! You can reach me through my [LinkedIn](https://www.linkedin.com/in/dimitris-sinanis-5a58aa153/) profile 📫 
 
 Thank you for visiting my GitHub profile! 🚀
 
