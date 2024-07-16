@@ -2,13 +2,13 @@
 
 ## About Me
 
-Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a love for. With a strong background in [mention your primary skills or experience], I thrive on creating innovative solutions and constantly seek to improve my skills and knowledge.
+Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a love for Data Science. With a strong background in SQL, C#, Python. I thrive on finding solutions in complex issues and I constantly seek to improve my skills and knowledge.
 
 ### Professional Background
 
 I have 4 years of experience in Software development industry, where I've had the opportunity to work on diverse projects ranging from customer support experience to debugging and developing automations. My expertise includes:
 
-- **Programming Languages:** C#, Python, Java
+- **Programming Languages:** C#, Python, Java, SQL
 - **Frameworks & Libraries:** .NET Framework, Streamlit, Flask, Open CV, Tensorflow, Keras, Pandas, Nibabel, Scikit-learn.
 - **Tools & Platforms:** Visual Studio Code, IntelliJ, SQL Server Management Studio, Powershell, Docker, Ngrok, Github.
 
