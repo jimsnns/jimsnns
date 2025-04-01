@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a love for Data Science. With a strong background in SQL, C#, Python. I thrive on finding solutions in complex issues and I constantly seek to improve my skills and knowledge.
+Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a love for Machine Learning and Data Science. With a strong background in SQL, C#, Python. I thrive on finding solutions in complex issues and I constantly seek to improve my skills and knowledge.
 
 ### Professional Background
 
