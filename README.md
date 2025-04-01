@@ -9,12 +9,14 @@ Hello! 👋 I'm Dimitris, a passionate and dedicated Softwrare Engineer with a l
 I have 4 years of experience in Software development industry, where I've had the opportunity to work on diverse projects ranging from customer support experience to debugging and developing automations. My expertise includes:
 
 - **Programming Languages:** C#, Python, Java, SQL
-- **Frameworks & Libraries:** .NET Framework, Streamlit, Flask, Open CV, Tensorflow, Keras, Pandas, Nibabel, Scikit-learn, NumPy, Matplotlib.
+- **Frameworks & Libraries:** .NET Framework, Streamlit, Gradio, Flask, Open CV, Tensorflow, Keras, Pandas, Nibabel, Scikit-learn, NumPy, Matplotlib, Transformers (Hugging Face)
 - **Tools & Platforms:** Visual Studio Code, IntelliJ, SQL Server Management Studio, Powershell, Docker, Ngrok, Github (GIT).
 
 ### What I'm Working On
 
-Currently, I'm focused on Data Science and the development of a model which detects brain tumors, by using image segmentation tools and algorithms mainly based on BraTS challenges and their datasets. I'm always eager to collaborate on exciting new projects, so feel free to reach out if you have an idea you'd like to discuss!
+I’m currently focused on LLM Engineering and building a cutting-edge Knowledge Base using the latest advancements in the field. My work involves implementing RAG pipelines, document attribution, agents, and tool integrations to create intelligent and efficient solutions.
+
+I’m always excited to collaborate on innovative projects—if you have an idea worth exploring, let’s connect!
 
 ### Get in Touch
 
